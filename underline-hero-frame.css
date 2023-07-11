@@ -1,0 +1,32 @@
+.learn-more-about {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 51px;
+  display: inline-block;
+  width: 361px;
+  height: 43px;
+}
+.underline-icon {
+  position: absolute;
+  top: 46.05px;
+  left: 0;
+  width: 340px;
+  height: 1.95px;
+}
+.learn-more-about-driving-and-d-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 48px;
+}
+.underline-hero-frame {
+  position: relative;
+  width: 100%;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

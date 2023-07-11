@@ -1,0 +1,31 @@
+.find-workers {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 51px;
+}
+.underline3 {
+  position: absolute;
+  top: 47.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 112px;
+  height: 1px;
+}
+.find-workers-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111px;
+  height: 51px;
+}
+.th-desktop-underline {
+  position: relative;
+  width: 100%;
+  height: 51px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

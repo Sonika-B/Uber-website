@@ -1,0 +1,34 @@
+.learn-more {
+  position: relative;
+  line-height: 51px;
+  display: inline-block;
+  width: 361px;
+  height: 43px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.underline {
+  position: absolute;
+  margin: 0 !important;
+  top: 42.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 94px;
+  height: 1px;
+  z-index: 1;
+}
+.underline-3rd-5th-frame {
+  position: relative;
+  width: 100%;
+  height: 43px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

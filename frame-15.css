@@ -1,0 +1,32 @@
+.own-a-restaurant {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 51px;
+  display: inline-block;
+  width: 361px;
+  height: 43px;
+}
+.underline-icon17 {
+  position: absolute;
+  top: 45px;
+  left: -0.01px;
+  width: 356.01px;
+  height: 3px;
+}
+.own-a-restaurant-partner-with-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 48px;
+}
+.group-parent {
+  position: relative;
+  width: 100%;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
